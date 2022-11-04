@@ -7,20 +7,22 @@ I'm essentially passionated with UI/UX design but I do many other things like �
 
 😄*21Y-O junior developer* 
 🎓*Student at Lome Polytechnic School (Ecole Polytechnique de Lomé) - TOGO*
+
+
  
-###My favorite languages are : 
+👉My favorite languages are : 
 C#?, Python, PHP, HTML/CSS/Javascript
 
 
-###I use frameworks like : 
+👉I use frameworks like : 
 Laravel, Flask
 
 
-###My favorite tools are : 
+👉My favorite tools are : 
 Bootstrap, Git/Github, VS Code, Postman, Swagger
 
 
-###I can manage : 
+👉I can manage : 
 MySQL, PostgreSQL, MongoDB, SQL Server
 
 
