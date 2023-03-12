@@ -11,7 +11,7 @@ I'm essentially passionated with UI/UX design but I do many other things like �
 
  
 👉My favorite languages are : 
-C#?, Python, PHP, HTML/CSS/Javascript
+Python, PHP, HTML/CSS/Javascript
 
 
 👉I use frameworks like : 
