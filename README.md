@@ -7,6 +7,7 @@ I'm essentially passionated with UI/UX design but I do many other things like �
 
 😄*21Y-O junior developer* 
 🎓*Student at Lome Polytechnic School (Ecole Polytechnique de Lomé) - TOGO*
+🎓*Student at Université Technologique de Belfort-Montbéliard (UTBM) - FRANCE*
 
 
  
