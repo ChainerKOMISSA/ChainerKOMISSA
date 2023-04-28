@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 
-😄I'm Chaïner KOMISSA ZOTSU, recently graduated with bachelor degree at IAI TOGO. 
+😄I'm Chainer KOMISSA ZOTSU | web applications developer | graphic designer. 
 
 I'm essentially passionated with UI/UX design but I do many other things like 🖥️Web application development, 🖥️web design, graphic design and community management.
 
-😄*21Y-O junior developer* 
+😄*22Y-O junior developer* 
 🎓*Student at Lome Polytechnic School (Ecole Polytechnique de Lomé) - TOGO*
 🎓*Student at Université Technologique de Belfort-Montbéliard (UTBM) - FRANCE*
 
