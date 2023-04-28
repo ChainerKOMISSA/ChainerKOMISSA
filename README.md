@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-😄I'm Chainer KOMISSA ZOTSU | web applications developer | graphic designer. 
+😄I'm Chainer KOMISSA ZOTSU | web applications developer | graphic designer | community manager. 
 
 I'm essentially passionated with UI/UX design but I do many other things like 🖥️Web application development, 🖥️web design, graphic design and community management.
 
