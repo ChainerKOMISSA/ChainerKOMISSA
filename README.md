@@ -5,7 +5,7 @@
 
 I'm essentially passionated with UI/UX design but I do many other things like 🖥️Web application development, 🖥️web design, graphic design and community management.
 
-😄*22Y-O junior developer* 
+😄*22Y-O developer* 
 🎓*Student at Lome Polytechnic School (Ecole Polytechnique de Lomé) - TOGO*
 🎓*Student at Université Technologique de Belfort-Montbéliard (UTBM) - FRANCE*
 
