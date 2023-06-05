@@ -12,18 +12,18 @@ I'm essentially passionated with UI/UX design but I do many other things like �
 
  
 👉My favorite languages are : 
-Python, PHP, HTML/CSS/Javascript
+Python, PHP, Java, HTML/CSS/Javascript
 
 
 👉I use frameworks like : 
-Laravel, Flask
+Laravel, Flask and ReactJS
 
 
 👉My favorite tools are : 
-Bootstrap, Git/Github, VS Code, Postman, Swagger
+Bootstrap, Git/Github, VS Code, Postman, Swagger, Adobe Photoshop and Figma
 
 
 👉I can manage : 
-MySQL, PostgreSQL, MongoDB, SQL Server
+MySQL, MongoDB, SQL Server
 
 
