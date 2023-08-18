@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-😄I'm Chainer KOMISSA ZOTSU | web applications developer | graphic designer | community manager. 
+😄I'm Chainer KOMISSA ZOTSU | a fullstack web developer. 
 
-I'm essentially passionated with UI/UX design but I do many other things like 🖥️Web application development, 🖥️web design, graphic design and community management.
+I do many things like 🖥️Web application development (backend and frontend), 🖥️web design, graphic design and community management.
 
 😄*22Y-O developer* 
 🎓*Student at Lome Polytechnic School (Ecole Polytechnique de Lomé) - TOGO*
@@ -12,7 +12,7 @@ I'm essentially passionated with UI/UX design but I do many other things like �
 
  
 👉My favorite languages are : 
-Python, PHP, Java, HTML/CSS/Javascript
+C, C#, Python, PHP, Java, HTML/CSS/Javascript, ReactJS
 
 
 👉I use frameworks like : 
