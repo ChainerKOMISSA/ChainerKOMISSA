@@ -12,15 +12,15 @@ I do many things like 🖥️Web application development (backend and frontend),
 
  
 👉My favorite languages are : 
-Python, PHP, Java, HTML/CSS/Javascript, ReactJS, React Native, NodeJS
+Python, Jakarte EE (J2E), HTML/CSS/Javascript, ReactJS, React Native, NodeJS
 
 
 👉I use frameworks like : 
-Laravel, Flask, ReactJS, ExpressJS
+Flask, ReactJS, ExpressJS, Laravel
 
 
 👉My favorite tools are : 
-Bootstrap, Git/Github/Gitlab, VS Code, Postman, Swagger, Adobe Photoshop and Figma
+Bootstrap, Git/Github/Gitlab, VS Code, Postman, Azure DevOps, Adobe Photoshop and Figma
 
 
 👉I can manage : 
