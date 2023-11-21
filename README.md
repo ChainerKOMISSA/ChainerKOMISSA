@@ -12,7 +12,7 @@ I do many things like 🖥️Web application development (backend and frontend),
 
  
 👉My favorite languages are : 
-Python, Jakarte EE (J2E), HTML/CSS/Javascript, ReactJS, React Native, NodeJS
+Python, Jakarta EE (J2E), HTML/CSS/Javascript, ReactJS, React Native, NodeJS
 
 
 👉I use frameworks like : 
