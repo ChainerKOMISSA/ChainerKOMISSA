@@ -3,11 +3,11 @@
 
 😄I'm Chainer KOMISSA ZOTSU | a fullstack web developer. 
 
-I do many things like 🖥️Web application development (backend and frontend), 🖥️web design, problem solving and i'm diving into 📱mobile development.
+I do many things like 🖥️Web application development (backend and frontend), 🖥️web design, problem solving and 📱mobile development.
 
-😄*22Y-O developer* 
-🎓*Student at Lome Polytechnic School (Ecole Polytechnique de Lomé) - TOGO*
-🎓*Student at Université Technologique de Belfort-Montbéliard (UTBM) - FRANCE*
+😄*23Y-O developer* 
+🎓*Gratuated in Computer Science at Lome Polytechnic School (Ecole Polytechnique de Lomé) - TOGO*
+🎓*Entrepreneurial Student at Université Technologique de Belfort-Montbéliard (UTBM) - FRANCE*
 
 
  
