@@ -1,29 +1,51 @@
 ### Hi there 👋
 
+I'm **Chainer KOMISSA ZOTSU**, a passionate **Fullstack Web Developer** 🚀  
+I build robust digital solutions, from **backend APIs** to **frontend interfaces**, and also explore **mobile development** and **web design**.
 
-😄I'm Chainer KOMISSA ZOTSU | a fullstack web developer. 
+![GitHub followers](https://img.shields.io/github/followers/ChainerKOMISSA?label=Follow&style=social)
+![GitHub stars](https://img.shields.io/github/stars/ChainerKOMISSA?style=social)
+![Profile views](https://komarev.com/ghpvc/?username=ChainerKOMISSA&color=blue)<br>
+---
 
-I do many things like 🖥️Web application development (backend and frontend), 🖥️web design, problem solving and 📱mobile development.
+🎓 **Academic Background**  
+- 👨‍🎓 Graduated in Computer Science – *École Polytechnique de Lomé, TOGO*  
+- 🎓 Currently an Entrepreneurial Student – *Université Technologique de Belfort-Montbéliard (UTBM), FRANCE*  
+- 👶 24 years old and already building cool stuff!
 
-😄*23Y-O developer* 
-🎓*Gratuated in Computer Science at Lome Polytechnic School (Ecole Polytechnique de Lomé) - TOGO*
-🎓*Entrepreneurial Student at Université Technologique de Belfort-Montbéliard (UTBM) - FRANCE*
+---
+
+💻 **What I do**  
+- 🧠 Problem solving & software architecture  
+- 🖥️ Web application development (Frontend & Backend)  
+- 📱 Mobile development (React Native)  
+- 🎨 UI/UX design (Adobe Photoshop & Figma)
+
+---
+
+🛠 **Tech Stack**  
+
+**Languages**  
+- Python, Jakarta EE (J2EE), JavaScript (HTML/CSS/JS), SQL  
+
+**Frameworks & Libraries**  
+- React.js, React Native, Flask, Express.js, Laravel  
+
+**Tools**  
+- Git / GitHub / GitLab, VS Code, Postman, Azure DevOps  
+- Figma, Adobe Photoshop  
+
+**Databases**  
+- MySQL, MongoDB, PostgreSQL, SQL Server
 
 
- 
-👉My favorite languages are : 
-Python, Jakarta EE (J2E), HTML/CSS/Javascript, ReactJS, React Native, NodeJS
+---
 
+📫 **Let’s connect!**  
+Whether it's about collaborating, learning together, or just having a good tech chat — feel free to reach out!
 
-👉I use frameworks like : 
-Flask, ReactJS, ExpressJS, Laravel
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChainerKOMISSA&layout=compact&langs_count=8&theme=tokyonight)
+![Chainer's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChainerKOMISSA&show_icons=true&theme=tokyonight)
 
-
-👉My favorite tools are : 
-Bootstrap, Git/Github/Gitlab, VS Code, Postman, Azure DevOps, Adobe Photoshop and Figma
-
-
-👉I can manage : 
-MySQL, MongoDB, SQL Server, PostgreSQL
 
 
