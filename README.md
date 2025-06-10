@@ -26,23 +26,23 @@ I build robust digital solutions, from **backend APIs** to **frontend interfaces
 🛠 **Tech Stack**  
 
 **Languages**  
-- Python, Jakarta EE (J2EE), JavaScript (HTML/CSS/JS), SQL  
+- Python, JEE , Php, JavaScript (HTML/CSS/JS)  
 
 **Frameworks & Libraries**  
-- React.js, React Native, Flask, Express.js, Laravel  
+- React.js, React Native, Flask, Node.js, Express.js, Laravel, Angular 
 
 **Tools**  
-- Git / GitHub / GitLab, VS Code, Postman, Azure DevOps  
+- Git / GitHub / GitLab / Bitbucket / Sourcetree, VS Code, Bruno,    
 - Figma, Adobe Photoshop  
 
 **Databases**  
-- MySQL, MongoDB, PostgreSQL, SQL Server
+- MySQL, MongoDB, PostgreSQL
 
 
 ---
 
 📫 **Let’s connect!**  
-Whether it's about collaborating, learning together, or just having a good tech chat — feel free to reach out!
+Whether it's about collaborating, learning together, or just having a good tech chat, feel free to reach out!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChainerKOMISSA&layout=compact&langs_count=8&theme=tokyonight)
 ![Chainer's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChainerKOMISSA&show_icons=true&theme=tokyonight)
