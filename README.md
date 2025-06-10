@@ -11,7 +11,7 @@ I build robust digital solutions, from **backend APIs** to **frontend interfaces
 🎓 **Academic Background**  
 - 👨‍🎓 Graduated in Computer Science – *École Polytechnique de Lomé, TOGO*  
 - 🎓 Currently an Entrepreneurial Student – *Université Technologique de Belfort-Montbéliard (UTBM), FRANCE*  
-- 👶 24 years old and already building cool stuff!
+- 👧🏽 Young and passionate !
 
 ---
 
