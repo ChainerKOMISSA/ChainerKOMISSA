@@ -48,4 +48,7 @@ Whether it's about collaborating, learning together, or just having a good tech 
 ![Chainer's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChainerKOMISSA&show_icons=true&theme=tokyonight)
 
 
-
+🌍 Translate this page: 
+[🇫🇷 French](https://translate.google.com/translate?sl=auto&tl=fr&u=https://github.com/ChainerKOMISSA) | 
+[🇪🇸 Spanish](https://translate.google.com/translate?sl=auto&tl=es&u=https://github.com/ChainerKOMISSA) | 
+[🇩🇪 German](https://translate.google.com/translate?sl=auto&tl=de&u=https://github.com/ChainerKOMISSA)
