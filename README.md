@@ -26,17 +26,17 @@ I build robust digital solutions, from **backend APIs** to **frontend interfaces
 🛠 **Tech Stack**  
 
 **Languages**  
-- Python, JEE , Php, JavaScript (HTML/CSS/JS)  
+- TypeScript, Java, Python, Php, JavaScript, HTML, CSS
 
 **Frameworks & Libraries**  
-- React.js, React Native, Flask, Node.js, Express.js, Laravel, Angular 
+- Angular, React js, Next js, Flask, Node.js, Express.js, Laravel 
 
 **Tools**  
-- Git / GitHub / GitLab / Bitbucket / Sourcetree, VS Code, Bruno,    
+- Git / GitHub / GitLab / Bitbucket / Sourcetree, VS Code, Bruno, IntelliJ   
 - Figma, Adobe Photoshop  
 
 **Databases**  
-- MySQL, MongoDB, PostgreSQL
+- MySQL, MongoDB, PostgreSQL, Firebase
 
 
 ---
