@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm **Chainer KOMISSA ZOTSU**, a passionate **Fullstack Web Developer** 🚀  
+I'm **Essi Chainer KOMISSA ZOTSU**, a passionate **Fullstack Web Developer** 🚀  
 I build robust digital solutions, from **backend APIs** to **frontend interfaces**, and also explore **mobile development** and **web design**.
 
 ![GitHub followers](https://img.shields.io/github/followers/ChainerKOMISSA?label=Follow&style=social)
