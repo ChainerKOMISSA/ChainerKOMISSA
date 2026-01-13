@@ -33,7 +33,7 @@ I build robust digital solutions, from **backend APIs** to **frontend interfaces
 
 **Tools**  
 - Git / GitHub / GitLab / Bitbucket / Sourcetree
-- VS Code, Bruno, IntelliJ
+- VS Code, Bruno, IntelliJ Idea
 - Jira, Confluence   
 - Figma, Adobe Photoshop  
 
@@ -41,7 +41,7 @@ I build robust digital solutions, from **backend APIs** to **frontend interfaces
 - MySQL, MongoDB, PostgreSQL, Firebase, Oracle
 
 **Others tools I explore**
-- Jenkins, Azure, Github Actions
+- Github Actions, Jenkins, AWS
 
 
 ---
