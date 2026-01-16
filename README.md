@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm **Essi Chainer KOMISSA ZOTSU**, a passionate **Fullstack Web Developer** 🚀  
+I'm **Essi Chainer KOMISSA ZOTSU**, a passionate **Fullstack Web Developer** 
 I build robust digital solutions, from **backend APIs** to **frontend interfaces**, and also explore **mobile development** and **web design**.
 
 ![GitHub followers](https://img.shields.io/github/followers/ChainerKOMISSA?label=Follow&style=social)
@@ -9,17 +9,17 @@ I build robust digital solutions, from **backend APIs** to **frontend interfaces
 ---
 
 🎓 **Academic Background**  
-- 👨‍🎓 Graduated in Computer Science – *École Polytechnique de Lomé, TOGO*  
-- 🎓 Graduated in Entrepreneurial Studies – *Université Technologique de Belfort-Montbéliard (UTBM), FRANCE*  
-- 👧🏽 Young and passionate !
+- Graduated in Computer Science – *École Polytechnique de Lomé, TOGO*  
+- Graduated in Entrepreneurial Studies – *Université Technologique de Belfort-Montbéliard (UTBM), FRANCE*  
+- Young and passionate !
 
 ---
 
 💻 **What I do**  
-- 🧠 Problem solving & software architecture  
-- 🖥️ Web application development (Frontend & Backend)  
-- 📱 Mobile development (React Native)  
-- 🎨 UI/UX design (Adobe Photoshop & Figma)
+- Problem solving & software architecture  
+- Web application development (Frontend & Backend)  
+- Mobile development (React Native)  
+- UI/UX design (Adobe Photoshop & Figma)
 
 ---
 
@@ -41,7 +41,7 @@ I build robust digital solutions, from **backend APIs** to **frontend interfaces
 - MySQL, MongoDB, PostgreSQL, Firebase, Oracle
 
 **Others tools I explore**
-- Github Actions, Jenkins, AWS
+- Github Actions, Jenkins, AWS, Docker
 
 
 ---
